@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Private and Secure Machine Learning
+subtitle: PhD Student, Trustworthy Machine Learning
 
 profile:
-    align: right
-    image: nils-profile.jpg
-    image_circular: false # crops the image to make it circular
-    address: >
+  align: right
+  image: nils-profile.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
     <p>University of Waterloo</p>
-    <p>Waterloo, Ontario, Canada</p>
+    <p>Waterloo, Canada</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
