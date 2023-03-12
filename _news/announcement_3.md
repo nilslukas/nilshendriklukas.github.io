@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-05-01 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I have begun my Internship at Microsoft Research with <a href="https://www.microsoft.com/en-us/research/people/shtople/">Shruti Tople</a> and <a href="https://www.microsoft.com/en-us/research/people/luwutsch/">Lukas Wutschitz</a>. 
