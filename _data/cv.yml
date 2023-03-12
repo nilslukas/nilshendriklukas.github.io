@@ -24,17 +24,6 @@
     - title: Bachelor of Science in Computer Science
       institution: RWTH-Aachen, Aachen, Germany
       year: 2012-2016
-
-- title: Research
-  type: time_table
-  contents:
-    - title: Research Internship
-      institution: Microsoft Research
-      year: 05/2022 - 08/2022
-      description:
-        - Analyzing Leakage of Personally Identifiable Information in Large Language Models
-
-
 - title: Experience
   type: time_table
   contents:
