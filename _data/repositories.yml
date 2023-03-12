@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nilslukas
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dnn-security/Watermark-Robustness-Toolbox
+  - cryspuwaterloo/OT-MP-PSI
+  - cryspuwaterloo/DiPSI
