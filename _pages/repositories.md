@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: I am passionate about open research. You can find my GitHub repositories below.
 nav: true
 nav_order: 3
