@@ -17,9 +17,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the University of Waterloo (since 2019), supervised by <a href="https://cs.uwaterloo.ca/~fkerschb/">Florian Kerschbaum</a>
-and a member of the <a href="https://crysp.uwaterloo.ca">Cryptography, Security and Privacy (CrySP)</a> group.
+Guten Tag :wave: ,
+I am a PhD student at the University of Waterloo supervised by <a href="https://cs.uwaterloo.ca/~fkerschb/">Florian Kerschbaum</a>
+and part of the <a href="https://crysp.uwaterloo.ca">Cryptography, Security and Privacy (CrySP)</a> group.
 
-I study the (adverse) effects of deploying deep neural networks in practice and methods that enhance security and privacy. A lot of my research has focused around provenance verification of deep neural networks through methods such as watermarking or fingerprinting. I am also studying backdoor attacks through data poisoning and adversarial attacks as well as their mitigation strategies. For privacy in machine learning, I conduct research on membership inference attacks that (partially) reveal sensitive attributes about the deployed model’s training data.
+I am researching the threats that arise when deploying deep neural networks from three perspectives: (1) **Privacy**
+when the model is trained on private data, (2) **Integrity** when the model's data cannot be trusted 
+(e.g., due to data poisoning), and (3) **Model Misuse** when the users cannot be trusted (e.g., due to deepfake generation).
 
-I received a Master of Science from the RWTH-Aachen (Germany) in 2018. My master’s thesis was on secure inference with deep neural networks using homomorphic encryption.
+My work includes studying privacy attacks against large language models fine-tuned on private datasets, developing defenses against data poisoning, and creating multiple methods for controlling model misuse. In collaboration with our group, I have also contributed to developing Secure Multi-Party Computation protocols for Private Information Retrieval and the Secure Inference of Deep Neural Networks.
+I received a Master of Science from the <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH-Aachen</a> (Germany) in 2019.
+
+If you have any questions or would like to learn more about my work, please feel free to contact me. You can also find my work on GitHub.
