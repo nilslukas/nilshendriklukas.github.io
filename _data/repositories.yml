@@ -6,3 +6,4 @@ github_repos:
   - cryspuwaterloo/OT-MP-PSI
   - cryspuwaterloo/DiPSI
   - microsoft/analysing_pii_leakage
+  - dnn-security/gan-watermark
