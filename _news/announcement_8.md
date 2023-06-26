@@ -5,6 +5,8 @@ inline: true
 ---
 
 I gave an invited talk on "Watermarking Deep Image Generators" at [Google](https://research.google).
-(<a href="/assets/pdf/nils_lukas_gan_watermarking.pdf" target="_blank" rel="noopener noreferrer" class="float-right">Download Slides</a>)
+
+<a href="/assets/pdf/nils_lukas_gan_watermarking.pdf" target="_blank" rel="noopener noreferrer" class="float-right">Download Slides</a>
+
 
 
