@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /Service/
-title: service
-description: My service as a reviewer.
+permalink: /service/
+title: Selected Service
+description: 
 nav: true
 nav_order: 5
 ---
