@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student, Trustworthy Machine Learning
+subtitle: PhD candidate, Trustworthy Machine Learning
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Guten Tag :wave: ,
-I am a PhD student at the University of Waterloo supervised by <a href="https://cs.uwaterloo.ca/~fkerschb/">Florian Kerschbaum</a>
+I am a PhD candidate at the University of Waterloo supervised by <a href="https://cs.uwaterloo.ca/~fkerschb/">Florian Kerschbaum</a>
 and part of the <a href="https://crysp.uwaterloo.ca">Cryptography, Security and Privacy (CrySP)</a> group.
 
 I am researching the threats that arise when deploying deep neural networks from three perspectives: (1) **Privacy**
