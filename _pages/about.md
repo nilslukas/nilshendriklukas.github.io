@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD candidate, Trustworthy Machine Learning
+subtitle: PhD candidate, Trustworthy Machine Learning and Secure Computation
 
 profile:
   align: right
