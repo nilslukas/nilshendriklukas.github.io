@@ -30,4 +30,4 @@ when the model is trained on private data, (2) **Integrity** when the model's da
 My work includes studying privacy attacks against large language models fine-tuned on private datasets, developing defenses against data poisoning, and creating multiple methods for controlling model misuse. In collaboration with our group, I have also contributed to developing Secure Multi-Party Computation protocols for Private Information Retrieval and the Secure Inference of Deep Neural Networks.
 I received a Master of Science from the <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH-Aachen</a> (Germany) in 2019.
 
-If you have any questions or would like to learn more about my work, please feel free to contact me. You can also find my work on GitHub.
+If you have any questions or would like to learn more about my work, please feel free to contact me. You can also find my work on <a href="https://github.com/nilslukas/">GitHub</a>.
