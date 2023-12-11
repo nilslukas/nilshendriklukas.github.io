@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD candidate, Trustworthy Machine Learning and Secure Computation
+subtitle: PhD candidate, Trustworthy ML & Secure Computation
 
 profile:
   align: right
@@ -20,6 +20,8 @@ social: true  # includes social icons at the bottom of the page
 Guten Tag :wave: ,
 I am a PhD candidate at the University of Waterloo supervised by <a href="https://cs.uwaterloo.ca/~fkerschb/">Florian Kerschbaum</a>
 and part of the <a href="https://crysp.uwaterloo.ca">Cryptography, Security and Privacy (CrySP)</a> group.
+
+<a href="https://nilslukas.github.io/assets/pdf/cv_nils_lukas.pdf">[CV]</a>
 
 I am researching the threats that arise when deploying deep neural networks from three perspectives: (1) **Privacy**
 when the model is trained on private data, (2) **Integrity** when the model's data cannot be trusted 
