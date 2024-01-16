@@ -21,10 +21,10 @@ Guten Tag :wave: ,
 I am a PhD candidate at the University of Waterloo supervised by <a href="https://cs.uwaterloo.ca/~fkerschb/">Florian Kerschbaum</a>
 and part of the <a href="https://crysp.uwaterloo.ca">Cryptography, Security and Privacy (CrySP)</a> group.
 
-<div style="text-align: center;"><strong><a href="https://nilslukas.github.io/assets/pdf/cv_nils_lukas.pdf">[CV]</a></strong></div>
+<div style="text-align: center;"><strong><a href="https://nilslukas.github.io/assets/pdf/cv_nils_lukas.pdf">Curriculum Vitae</a></strong>, <strong><a href="https://nilslukas.github.io/assets/pdf/research_statement.pdf">Research Statement</a></strong></div>
 
 I am researching the threats that arise when deploying deep neural networks from three perspectives: (1) **Privacy**
-when the model is trained on private data, (2) **Integrity** when the model's data cannot be trusted 
+when the model is trained on private data, (2) **Reliability** when the model's training data cannot be trusted 
 (e.g., due to data poisoning), and (3) **Model Misuse** when the users cannot be trusted (e.g., due to deepfake generation).
 
 My work includes studying privacy attacks against large language models fine-tuned on private datasets, developing defenses against data poisoning, and creating multiple methods for controlling model misuse. In collaboration with our group, I have also contributed to developing Secure Multi-Party Computation protocols for Private Information Retrieval and the Secure Inference of Deep Neural Networks.
