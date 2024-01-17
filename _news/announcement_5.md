@@ -6,6 +6,6 @@ inline: true
 
 :fire: One paper accepted at IEEE S&P'23 in San Francisco, California. We worked on studying the [Leakage of Personal Information in Language Models](https://arxiv.org/abs/2302.00539). 
 <br><br>
-Our work also won the <b>Distinguished Contribution Award</b> at Microsoft's internal Machine Learning, AI & Data Science Conference (MLADS)  in Fall 2023 🏆 
+🏆 Our IEEE S&P'23 paper won the <b>Distinguished Contribution Award</b> at Microsoft's internal Machine Learning, AI & Data Science Conference (MLADS)  in Fall 2023. 
 
 
