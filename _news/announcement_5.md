@@ -4,6 +4,8 @@ date: 2023-04-3 15:59:00-0400
 inline: true
 ---
 
-Our paper on <a href="https://arxiv.org/abs/2302.00539">PII Leakage in LLMs</a> was accepted at IEEE Security and Privacy (S&P) 2023. :fire:
+One paper accepted at IEEE S&P'23 in San Francisco, California :fire:. We worked on studying the leakage of private information in language models. 
 
-The work also won the "Distinguished Contribution Award" at Microsoft's internal Machine Learning, AI & Data Science Conference (MLADS)  in Fall 2023 🏆 
+Our work also won the <b>Distinguished Contribution Award</b> at Microsoft's internal Machine Learning, AI & Data Science Conference (MLADS)  in Fall 2023 🏆 
+
+[[paper]](https://arxiv.org/abs/2302.00539)
