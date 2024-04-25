@@ -3,15 +3,13 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <p>Incoming Assistant Professor <a href="https://mbzuai.ac.ae/">@MBZUAI</a></p>
-  <p>nils.lukas@mbzuai.ac.ae</p>
+  <p>Incoming Assistant Professor <a href="https://mbzuai.ac.ae/">@MBZUAI</a>, nils.lukas@mbzuai.ac.ae</p>
+  
 
 profile:
   align: right
   image: nils-profile.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Toronto, Canada</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 Guten Tag :wave: ,
 I am an incoming Assistant Professor at <a href="https://mbzuai.ac.ae/">MBZUAI</a> in Abu Dhabi, beginning August 2024.
 Previously, I did my PhD at the University of Waterloo in Canada, where I was supervised by <a href="https://cs.uwaterloo.ca/~fkerschb/">Florian Kerschbaum</a>. 
-During my PhD I interned at <a href="https://www.microsoft.com/en-us/research/group/privacy-preserving-machine-learning-innovation/publications/">Microsoft Research</a> and <a href="https://www.borealisai.com/">Borealis AI</a> and I was supported by the David R. Cheriton scholarship.
+During my PhD I interned at <a href="https://www.microsoft.com/en-us/research/group/privacy-preserving-machine-learning-innovation/publications/">Microsoft Research</a> and <a href="https://www.borealisai.com/">Borealis AI</a> and I was generously supported by the David R. Cheriton scholarship.
 In 2024, I received the <a href="https://cs.uwaterloo.ca/news/nils-lukas-receives-2024-mathematics-doctoral-prizes-top-honour">Mathematics Doctoral Prize’s</a> at the University of Waterloo and 
 was nominated for the <a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/governor-generals-gold-medal-winners">Governor General’s Gold Medal</a>. 
 <br>
