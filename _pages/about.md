@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: >
-  <p>Incoming Assistant Professor <a href="https://mbzuai.ac.ae/">@MBZUAI</a>, nils.lukas@mbzuai.ac.ae</p>
+subtitle: Assistant Professor <a href="https://mbzuai.ac.ae/">@MBZUAI</a>, nils.lukas@mbzuai.ac.ae
   
 
 profile:
   align: right
   image: nils-profile.jpg
   image_circular: false # crops the image to make it circular
+  address: >
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
