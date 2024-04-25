@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD candidate, Trustworthy ML & Secure Computation
+subtitle: Incoming Assistant Professor @MBZUAI, Trustworthy ML & Confidential Computing
 
 profile:
   align: right
   image: nils-profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>University of Waterloo</p>
-    <p>Canada</p>
+    <p>Toronto, Canada</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -30,7 +29,7 @@ was nominated for the <a href="https://uwaterloo.ca/graduate-studies-postdoctora
 <br>
 
 <b style="color: red;">Please reach out to me via e-mail if you are interested in joining MBZUAI. 
-Please find admission details <a href="https://mbzuai.ac.ae/study/admission-process/">here</a>.</b>
+You can find admission details <a href="https://mbzuai.ac.ae/study/admission-process/">here</a>.</b>
 
 
 My research focuses on designing safe and reliable Machine Learning systems in the presence of untrustworthy
