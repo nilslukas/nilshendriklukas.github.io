@@ -27,8 +27,8 @@ was nominated for the <a href="https://uwaterloo.ca/graduate-studies-postdoctora
 </div>
 <br>
 
-<b style="color: red;">Please reach out to me via e-mail if you are interested in joining MBZUAI. 
-You can find admission details <a href="https://mbzuai.ac.ae/study/admission-process/">here</a>.</b>
+<b style="color: red;">Please reach out to me via e-mail if you are interested in joining MBZUAI as a student or a visting researcher/visiting postdoc with me. 
+</b>
 
 
 My research focuses on designing safe and reliable Machine Learning systems in the presence of untrustworthy
