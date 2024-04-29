@@ -27,7 +27,8 @@ was nominated for the <a href="https://uwaterloo.ca/graduate-studies-postdoctora
 </div>
 <br>
 
-<b style="color: red;">Please reach out to me via e-mail if you are interested in joining MBZUAI as a student or a visting researcher/visiting postdoc with me. 
+<b style="color: red;">Please reach out to me via e-mail if you are interested in joining my group at MBZUAI as a student or postdoc, 
+or if you are interested in a visiting scholar appointment with me. 
 </b>
 
 
