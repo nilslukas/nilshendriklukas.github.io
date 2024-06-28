@@ -27,10 +27,8 @@ was nominated for the <a href="https://uwaterloo.ca/graduate-studies-postdoctora
 </div>
 <br>
 
-<b style="color: red;">If you are interested in joining my group in any capacity, please fill out this <a href="https://docs.google.com/forms/d/1-UWRsnoiWnS19NENnNgyJ9Lt3QHPYc5Jbc_B_l5rk-A/viewform?edit_requested=true">form</a> and optionally send me a brief e-mail at "nils.lukas@mbzuai.ac.ae". 
-I currently have open positions for talented Master and PhD students with a background on ML Security/Privacy. 
+<b style="color: red;">If you are interested in joining my group as a Master/PhD student, please fill out this <a href="https://docs.google.com/forms/d/1-UWRsnoiWnS19NENnNgyJ9Lt3QHPYc5Jbc_B_l5rk-A/viewform?edit_requested=true">form</a> and optionally send me a brief e-mail at "nils.lukas@mbzuai.ac.ae".
 </b>
-
 
 My research focuses on designing safe and reliable Machine Learning systems in the presence of untrustworthy
 1. <b>Providers:</b> Confidential computing via Homomorphic Encryption & Secret Sharing.
