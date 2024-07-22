@@ -30,7 +30,7 @@ was nominated for the <a href="https://uwaterloo.ca/graduate-studies-postdoctora
 <b style="color: red;">If you are interested in joining my group as a Master/PhD student, please fill out this <a href="https://docs.google.com/forms/d/1-UWRsnoiWnS19NENnNgyJ9Lt3QHPYc5Jbc_B_l5rk-A/viewform?edit_requested=true">form</a> and optionally send me a brief e-mail at "nils.lukas@mbzuai.ac.ae".
 </b>
 
-My research focuses on designing safe and reliable Machine Learning systems in the presence of untrustworthy
+My research focuses on designing <b>safe</b> and <b>reliable</b> Machine Learning systems in the presence of untrustworthy
 1. <b>Providers:</b> Confidential computing via Homomorphic Encryption & Secret Sharing.
 2. <b>Data:</b> Mitigate data poisoning during training & prompt injection during inference.
 3. <b>Models:</b> Protect training data privacy through PII scrubbing & differential privacy.
