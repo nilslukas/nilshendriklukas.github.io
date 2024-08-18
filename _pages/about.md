@@ -23,14 +23,14 @@ My <a href="https://uwspace.uwaterloo.ca/items/490121a4-7f9e-4736-aa3a-3f0b3c20d
 I was a finalist for the <a href="https://uwaterloo.ca/graduate-studies-postdoctoral-affairs/governor-generals-gold-medal-winners">Governor General’s Gold Medal</a>. 
 <br>
 <div style="text-align: center;">
-<a href="https://nilslukas.github.io/assets/pdf/cv_nils_lukas.pdf">[Curriculum Vitae]</a>, <a href="https://nilslukas.github.io/assets/pdf/research_statement.pdf">[Research Statement]</a>
+<a href="https://nilslukas.github.io/assets/pdf/cv_nils_lukas.pdf">[Curriculum Vitae]</a>, <a href="https://nilslukas.github.io/assets/pdf/research_statement.pdf">[Research Statement]</a>, <a href="https://scholar.google.com/citations?user=fmlEab4AAAAJ&hl=en&oi=ao">[Google Scholar]</a>
 </div>
 <br>
 
 <b style="color: red;">If you are interested in joining my group as a Master/PhD student, please fill out this <a href="https://docs.google.com/forms/d/1-UWRsnoiWnS19NENnNgyJ9Lt3QHPYc5Jbc_B_l5rk-A/viewform?edit_requested=true">form</a> and optionally send me a brief e-mail at "nils.lukas@mbzuai.ac.ae".
 </b>
 
-My research focuses on designing <b>safe</b> and <b>reliable</b> Machine Learning systems in the presence of untrustworthy
+My research focuses on designing <b>secure</b> and <b>private</b> Machine Learning systems in the presence of untrustworthy
 1. <b>Providers:</b> Confidential computing via Homomorphic Encryption & Secret Sharing.
 2. <b>Data:</b> Mitigate data poisoning during training & prompt injection during inference.
 3. <b>Models:</b> Protect training data privacy through PII scrubbing & differential privacy.
