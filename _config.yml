@@ -8,7 +8,7 @@ middle_name:
 last_name: Lukas
 email: nlukas@uwaterloo.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Nils Lukas, PhD candidate working on Trustworthy Machine Learning at the University of Waterloo in Canada.
+  Nils Lukas, Assistant Professor @MBZUAI, Abu Dhabi, Secure and Private Machine Learning.
 footer_text: >
 keywords: Security, Privacy, Machine Learning  # add your own keywords or leave empty
 
@@ -115,7 +115,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name:  # blog_name will be displayed in your blog page
 blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
-blog_description: Trustworthy Machine Learning, Nils Lukas, PhD candidate at the University of Waterloo
+blog_description: Secure and Private Machine Learning, Nils Lukas, Assistant Professor @MBZUAI, Abu Dhabi
 permalink: /blog/:year/:title/
 
 # Pagination
