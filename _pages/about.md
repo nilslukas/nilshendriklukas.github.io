@@ -36,7 +36,7 @@ My research focuses on designing <b>secure</b> and <b>private</b> Machine Learni
 3. <b>Models:</b> Protect training data privacy through PII scrubbing & differential privacy.
 4. <b>Users:</b> Control misuse by detecting generated content via watermarking
 
-<div style="width: 600px; margin: 0 auto; text-align: center;">
+<div style="width: 90%; margin: 0 auto; text-align: center;">
   <img src="https://nilslukas.github.io/assets/img/topics.png" alt="Description of the image" style="width: 100%;"/>
   <p style="font-size: 14px;">An overview of my research interests.</p>
 </div>
