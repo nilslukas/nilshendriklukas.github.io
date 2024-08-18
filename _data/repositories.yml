@@ -7,3 +7,4 @@ github_repos:
   - cryspuwaterloo/DiPSI
   - microsoft/analysing_pii_leakage
   - dnn-security/gan-watermark
+  - nilslukas/adaptive-watermark-attacks
