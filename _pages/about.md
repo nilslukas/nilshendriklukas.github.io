@@ -37,6 +37,6 @@ My research focuses on designing <b>secure</b> and <b>private</b> Machine Learni
 4. <b>Users:</b> Control misuse by detecting generated content via watermarking
 
 My work includes studying privacy attacks against large language models fine-tuned on private datasets, developing defenses against data poisoning, and creating multiple methods for controlling model misuse. In collaboration with our group, I have also contributed to developing Secure Multi-Party Computation protocols for Private Information Retrieval and the Secure Inference of Deep Neural Networks.
-I received a Master of Science from the <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH-Aachen</a> (Germany) in 2019.
+I received a Master of Science from the <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH-Aachen</a> (Germany) and a PhD from the <a href="https://uwaterloo.ca/">University of Waterloo</a> (Canada).
 
 If you have any questions or would like to learn more about my work, please feel free to contact me. You can also find my work on <a href="https://github.com/nilslukas/">GitHub</a>.
